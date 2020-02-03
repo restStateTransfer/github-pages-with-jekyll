@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to my JavaScript blog !
 
-I'm glad you are here. I plan to talk about ...
+I am interested in all things JS. I like Python as well.  
